@@ -123,6 +123,8 @@ lite-server
 The following is the structure of a contract.
 
 ```
+MAYOR_VERSION EMOJI_DELIMITER MINOR_VERSION
+
 STATE_VARIABLES
 
 CONSTRUCTOR (Optional)
@@ -196,6 +198,28 @@ NAME VISIBILITY PARAMS ↩️ RETURN_TYPE
 | #️⃣ | address |
 | 🗺️ | mapping |
 | ☯️ | boolean |
+
+## Special Emojis
+
+| Emoji | Usage |
+|-------|------|
+| 👤 | Sender address |
+
+### ERC20 Standard
+
+The ETC20 Standard function signatures is implemented at compiler level as follows.
+
+| Emoji | Usage |
+|-------|------|
+| 🪙💰 | `totalSupply` |
+| 🪙🤑 | `balanceOf` |
+| 🪙💸 | `transfer` |
+| 🪙🛂 | `allowance` |
+| 🪙✅ | `approve` |
+| 🪙🏧 | `transferFrom` |
+| 🪙📛 | `name` |
+| 🪙🆔 | `symbol` |
+| 🪙🥧 | `decimals` |
 
 ## Instructions
 
