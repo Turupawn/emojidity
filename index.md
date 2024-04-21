@@ -50,6 +50,34 @@ lite-server
 🔚
 ```
 
+### Staking
+
+```
+0️⃣🤗0️⃣
+
+🗺️🍇
+
+🍇🔼📢↩️🔢
+🏁
+  🍇👤📥🍇👤➕💰
+  ↩️1️⃣
+🔚
+
+🍇🔽📢↩️🔢
+🏁
+  🔢🍓
+  🍓📥🍇👤
+  🍇👤📥0️⃣
+  📡👤📍0️⃣💸🍓⛽0️⃣
+  ↩️1️⃣
+🔚
+
+🍇❓👀#️⃣🍓↩️🔢
+🏁
+  ↩️🍇🍓
+🔚
+```
+
 ### ERC20 Token
 
 ```
@@ -57,16 +85,18 @@ lite-server
 
 🗺️💰
 🗺️🛂
+🔢🍓
 
 👷
 🏁
-  💰👤📥1️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣
-  📑🪙🚚📑0️⃣📑👤📑1️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣
+  🍓📥1️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣
+  💰👤📥🍓
+  📑🪙🚚📑0️⃣📑👤📑🍓
 🔚
 
 🪙💰👀↩️🔢
 🏁
-  ↩️1️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣
+  ↩️🍓
 🔚
 
 🪙🤑👀#️⃣🍓↩️🔢
@@ -118,13 +148,31 @@ lite-server
 🔚
 ```
 
+### 1 to 1 Pegswap
+
+```
+0️⃣🤗0️⃣
+
+🅰️🅱️📢🔢🍇↩️☯️
+🏁
+  📡6️⃣1️⃣7️⃣4️⃣1️⃣9️⃣2️⃣5️⃣4️⃣7️⃣7️⃣1️⃣2️⃣7️⃣2️⃣1️⃣0️⃣2️⃣2️⃣5️⃣8️⃣6️⃣7️⃣2️⃣0️⃣2️⃣1️⃣4️⃣8️⃣5️⃣4️⃣5️⃣2️⃣4️⃣8️⃣1️⃣9️⃣7️⃣0️⃣2️⃣1️⃣6️⃣4️⃣2️⃣7️⃣4️⃣9️⃣5️⃣📍5️⃣9️⃣9️⃣2️⃣9️⃣0️⃣5️⃣8️⃣9️⃣💸0️⃣⛽1️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣#️⃣👤#️⃣👇🔢🍇
+  📡9️⃣4️⃣6️⃣6️⃣7️⃣6️⃣1️⃣4️⃣9️⃣1️⃣4️⃣2️⃣9️⃣0️⃣8️⃣5️⃣2️⃣3️⃣2️⃣0️⃣4️⃣1️⃣6️⃣5️⃣5️⃣2️⃣7️⃣8️⃣1️⃣5️⃣3️⃣3️⃣6️⃣7️⃣7️⃣5️⃣7️⃣3️⃣9️⃣4️⃣2️⃣5️⃣4️⃣5️⃣4️⃣6️⃣6️⃣8️⃣📍2️⃣8️⃣3️⃣5️⃣7️⃣1️⃣7️⃣3️⃣0️⃣7️⃣⛽1️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣#️⃣👤🔢🍇
+  ↩️1️⃣
+🔚
+
+🅱️🅰️📢🔢🍇↩️☯️
+🏁
+  📡9️⃣4️⃣6️⃣6️⃣7️⃣6️⃣1️⃣4️⃣9️⃣1️⃣4️⃣2️⃣9️⃣0️⃣8️⃣5️⃣2️⃣3️⃣2️⃣0️⃣4️⃣1️⃣6️⃣5️⃣5️⃣2️⃣7️⃣8️⃣1️⃣5️⃣3️⃣3️⃣6️⃣7️⃣7️⃣5️⃣7️⃣3️⃣9️⃣4️⃣2️⃣5️⃣4️⃣5️⃣4️⃣6️⃣6️⃣8️⃣📍5️⃣9️⃣9️⃣2️⃣9️⃣0️⃣5️⃣8️⃣9️⃣💸0️⃣⛽1️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣#️⃣👤#️⃣👇🔢🍇
+  📡6️⃣1️⃣7️⃣4️⃣1️⃣9️⃣2️⃣5️⃣4️⃣7️⃣7️⃣1️⃣2️⃣7️⃣2️⃣1️⃣0️⃣2️⃣2️⃣5️⃣8️⃣6️⃣7️⃣2️⃣0️⃣2️⃣1️⃣4️⃣8️⃣5️⃣4️⃣5️⃣2️⃣4️⃣8️⃣1️⃣9️⃣7️⃣0️⃣2️⃣1️⃣6️⃣4️⃣2️⃣7️⃣4️⃣9️⃣5️⃣📍2️⃣8️⃣3️⃣5️⃣7️⃣1️⃣7️⃣3️⃣0️⃣7️⃣💸0️⃣⛽1️⃣0️⃣0️⃣0️⃣0️⃣0️⃣0️⃣#️⃣👤🔢🍇
+  ↩️1️⃣
+🔚
+```
+
 ## Structure of a Contract
 
 The following is the structure of a contract.
 
 ```
-MAYOR_VERSION EMOJI_DELIMITER MINOR_VERSION
-
 STATE_VARIABLES
 
 CONSTRUCTOR (Optional)
@@ -199,27 +247,13 @@ NAME VISIBILITY PARAMS ↩️ RETURN_TYPE
 | 🗺️ | mapping |
 | ☯️ | boolean |
 
-## Special Emojis
+## Special emojis
 
-| Emoji | Usage |
+| Emoji | Type |
 |-------|------|
-| 👤 | Sender address |
-
-### ERC20 Standard
-
-The ETC20 Standard function signatures is implemented at compiler level as follows.
-
-| Emoji | Usage |
-|-------|------|
-| 🪙💰 | `totalSupply` |
-| 🪙🤑 | `balanceOf` |
-| 🪙💸 | `transfer` |
-| 🪙🛂 | `allowance` |
-| 🪙✅ | `approve` |
-| 🪙🏧 | `transferFrom` |
-| 🪙📛 | `name` |
-| 🪙🆔 | `symbol` |
-| 🪙🥧 | `decimals` |
+| 👤 | The caller address, `msg.sender` on solidity |
+| 👇 | Current contract address, `this` on solidity |
+| 💰 | Ether amount sent, `msg.value` on solidity |
 
 ## Instructions
 
@@ -331,4 +365,18 @@ Logs an event to the blockchain. Notice the name is a 2 emoji signature. Up to 4
 Example:
 ```
 📑🪙🚚📑👤📑🍓📑🍇
+```
+
+## External calls
+
+Makes a call to an external account. Use this to call a function to an external smart contract or to send eth.
+
+```
+📡 EXTERNAL_ACCOUNT_ADDRESS 📍 SELECTOR 💸 ETHER_SENT ⛽ MAXIMUM_GAS_USED
+```
+
+
+Example:
+```
+📡👤📍0️⃣💸🍓⛽0️⃣
 ```
